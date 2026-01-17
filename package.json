@@ -1,0 +1,21 @@
+{
+  "name": "com.rayofideas.questpackage",
+  "version": "0.1.0",
+  "displayName": "Quest Package",
+  "description": "Handle basic quest features such as tracking progress & completion",
+  "unity": "6000.3",
+  "unityRelease": "2f2",
+  "keywords": [],
+  "author": {
+    "name": "Ray of Ideas",
+    "url": "https://github.com/RayOfIdeas",
+    "email": "rayofideas@protonmail.com"
+  },
+  "samples": [
+    {
+      "displayName": "Sample Implementation",
+      "description": "A simple example implementating Quest Package",
+      "path": "Samples~/Sample"
+    }
+  ]
+}
