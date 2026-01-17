@@ -10,9 +10,6 @@ namespace QuestPackage
     {
         [SerializeField]
         List<QuestGroup> questGroups = new();
-
-        [SerializeField]
-        QuestGroup defaultQuestGroup;
         public List<QuestGroup> QuestGroups => questGroups;
     }
 }
