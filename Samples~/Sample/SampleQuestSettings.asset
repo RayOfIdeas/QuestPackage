@@ -9,9 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e777d2ed87dfb144caffdbc06aa95b71, type: 3}
+  m_Script: {fileID: 11500000, guid: f7e2d2cfa35e40d4caa7b35d594dd57d, type: 3}
   m_Name: SampleQuestSettings
   m_EditorClassIdentifier: QuestPackage.Runtime::QuestPackage.Runtime.QuestSettings
-  questGroups:
-  - {fileID: 11400000, guid: 28ed58df347b2ca4bae60cbcac600406, type: 2}
+  questGroups: []
   defaultQuestGroup: {fileID: 11400000, guid: 28ed58df347b2ca4bae60cbcac600406, type: 2}
